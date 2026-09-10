@@ -1,4 +1,5 @@
 <div align="center">
+  <img src=".github/assets/cover.png" alt="Pong — project illustration" width="100%" />
   <h1>Pong</h1>
   <p><strong>One paddle, one ball, one more rally.</strong></p>
   <p>
